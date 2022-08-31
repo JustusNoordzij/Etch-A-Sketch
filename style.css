@@ -1,0 +1,11 @@
+.Grid {
+    width: 500px;
+    height: 500px;
+    display: grid;
+
+
+}
+div {
+    border-color: black;
+    border-width: 8px;
+}
