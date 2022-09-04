@@ -96,7 +96,6 @@ select.addEventListener('click', function() {
 
 
 })
-   
 
 
-makeGrid(10, 10);
+makeGrid(16);
